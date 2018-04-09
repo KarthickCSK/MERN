@@ -1,0 +1,45 @@
+#bar
+{
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  width: 100%;
+  margin-bottom: -1.4%;
+  height: 65px !important;
+}
+#menubar-link
+{
+  color: orange;
+}
+#menubar-logo
+{
+  font-size: 30px;
+  font-weight: bold;
+}
+#child
+{
+  height: 80%;
+}
+#menubar-pusher{
+  padding-top: 15px;
+  padding-bottom: 1%;
+}
+#menubar-pushable{
+  margin-top: 4.35%;
+}
+#menubar-sidebar{
+  margin-top: 60px;
+  position:fixed;
+  height: 100%;
+  left:0;
+  z-index: 9999;
+}
+#menubar-item{
+  height: 76px;
+  text-align: center;
+  padding-top: 30px;
+}
+#menubar-icon{
+  margin-right: 10px;
+}

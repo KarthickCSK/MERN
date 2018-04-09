@@ -1,0 +1,22 @@
+
+.category-content-card {
+    margin: 10px !important;
+}
+.image-container-category img{
+	width: 240px !important;
+  height: 270px !important;
+  margin:auto !important;
+}
+.image-container-category{
+	width: 240px !important;
+  height: 270px !important;
+    margin:auto !important;
+
+
+}
+.image-category{
+	object-fit:scale-down;
+}
+.category-loding-div{
+  
+}

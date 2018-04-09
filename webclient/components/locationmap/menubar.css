@@ -1,0 +1,58 @@
+#bar
+{
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  width: 100%;
+  margin-bottom: -1.4%;
+  height: 65px !important;
+}
+#menubar-link {
+  color: black;
+  font-size: 15px;
+}
+
+#menubar-icon {
+  color: #DB2828;
+}
+
+#menubar-logo
+{
+  font-size: 30px;
+  font-weight: bold;
+}
+#child
+{
+  height: 80%;
+}
+#menubar-pusher{
+  padding-top: 15px;
+  padding-bottom: 1%;
+}
+#menubar-pushable{
+  margin-top: 4.35%;
+}
+#menubar-sidebar{
+  margin-top: 60px;
+  position:fixed;
+  height: 100%;
+  left:0;
+  z-index: 9999;
+}
+#menubar-item{
+  height: 76px;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.menu-bar-container {
+  background-color: #DB2828 !important;
+}
+
+.menu-item-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}

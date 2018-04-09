@@ -1,0 +1,35 @@
+.vendorfiter-product-container {
+  margin-top: 30px;
+}
+
+.vendorfilter-product-tool {
+  margin-left: 40px;
+  margin-top: 50px;
+  border: 1px solid #EFEFEF;
+  width: 250px;
+  height: 400px;
+}
+
+.vendorfilter-product-type {
+  padding-right: 35px;
+  padding-top: 20px;
+  margin-left: 7%
+}
+
+.vendorfilter-product-apply-btn {
+  text-align: center;
+}
+
+.vendorfilter-prod-search-box {
+  text-align: justify;
+  margin-top: 20px;
+}
+
+.vendorfilter-prod-search {
+  width: 450px !important;
+  padding-left: 150px !important;
+}
+
+.vendorfilter-prod-product-container {
+  margin-top: 50px;
+}

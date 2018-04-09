@@ -1,0 +1,47 @@
+.ProductList-Component{
+	
+}
+#productlist_actualprice {
+ color:#4B4C4D;
+ text-decoration: line-through;
+}
+#productlist_discount{
+font-size: 18px;
+color: brown;
+}
+#productlist_product{
+  text-align: center;
+  }
+.productlist_viewlist {
+ font-family: 'Sue Ellen Francisco', cursive;
+  font-size: 20px;
+    color: black;
+    align-items: center !important;
+}
+.productlist_favourite {
+ margin-top: 5px;
+ float: right;
+}
+#productlist_button {
+    position: relative;
+    margin: auto;
+}
+.productlist_card{
+text-align: center;
+
+}
+.product{
+	padding-top: 30px;
+}
+.image-container img{
+	width: 260px !important;
+    height: 270px !important;
+}
+.image-container{
+	width: 260px !important;
+    height: 270px !important;
+
+}
+.image{
+	object-fit:scale-down;
+}

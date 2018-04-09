@@ -1,0 +1,126 @@
+.wishlist-header{
+	text-align: center;
+	margin-left: 101px;
+}
+.product-content-card{
+  align-items: center;
+  margin-bottom: 10px !important;
+	height: auto;
+
+}
+.productname-div{
+ text-align: left;
+ margin-left: 22px;
+     margin-top: 21px;
+}
+.Edit-button{
+    color: blue;
+}
+.Ok-button{
+color: #21ba45;
+}
+.group-card{
+	    margin-right: -18px;
+display:table-caption;
+}
+#chipheader{
+	background-color: teal;
+	margin-right: -246px;
+}
+.Group-grid{
+	margin-left: 10px;
+}
+.head-header{
+	color: black;
+}
+.No-wishlist-msg{
+	text-align: center;
+	color:orange;
+	margin-left: 330px;
+}
+.wishlist-ref{
+	font-size: 29px;
+	margin-bottom: 200px;
+	margin-left: 800px;
+	color: orange;
+
+}
+.expp-price{
+	 font-weight: 900;
+}
+.product{
+	color: black;
+	margin-top: -3px;
+}
+.Expp-price{
+	    margin-right: 119px;
+	    color: brown;
+}
+.whislist-pre{
+color: brown;
+}
+#whislist_discount{
+	font-size: 18px;
+	color: orange;
+}
+.heading-wishlist-tag{
+	  font-size: 14px;
+	  font-style: bold;
+}
+.wishlist-shop-detail{
+	    padding: 3px;
+}
+.whislist-pre{
+	color: orange;
+}
+#snackbar {
+    visibility: hidden;
+    min-width: 250px;
+    margin-left: -125px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    border-radius: 2px;
+    padding: 16px;
+    position: fixed;
+    z-index: 1;
+    left: 50%;
+    top: 260px;
+    font-size: 17px;
+}
+
+#snackbar.show {
+    visibility: visible;
+    -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+    animation: fadein 0.5s, fadeout 0.5s 2.5s;
+}
+
+@-webkit-keyframes fadein {
+    from {top: 0; opacity: 0;}
+    to {top: 230px; opacity: 1;}
+}
+
+@keyframes fadein {
+    from {top: 0; opacity: 0;}
+    to {top: 230px; opacity: 1;}
+}
+
+@-webkit-keyframes fadeout {
+    from {top: 230px; opacity: 1;}
+    to {top: 0; opacity: 0;}
+}
+
+@keyframes fadeout {
+    from {top: 230px; opacity: 1;}
+    to {top: 0; opacity: 0;}
+}
+.No-wishlist-message{
+    text-align: center;
+    color:orange;
+}
+.wishlist-message-box{
+    text-align: center;
+}
+
+
+

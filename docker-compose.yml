@@ -1,0 +1,14 @@
+version: '2'
+services:
+  news-app:
+    build: .
+    image: owl-app
+    ports:
+      - 8080:8080
+    links:
+      - mongo
+    environment:
+      MONGO_URL: mongodb://mongo/newsapp
+    image: mongo
+    expose:
+      - 27017

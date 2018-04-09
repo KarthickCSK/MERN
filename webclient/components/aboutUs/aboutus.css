@@ -1,0 +1,134 @@
+.homepage_aboutus{
+
+   }
+  .homepage_gap{
+    position: relative;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    text-align: center;
+  }
+.homepage_aboutus h2{
+   background-color:rgba(0,0,0,0);
+   font-family: 'Josefin Sans', sans-serif;
+   font-size: 1000%;
+   color:#FF7F00 ;
+   text-align: center;
+}
+.homepage_poster{
+  padding-top: 150px;
+  background: rgba(47, 50, 53, 0.9);
+  height: 838px;
+}
+.homepage_specs{
+ margin-left: 50px;
+}
+.homepage_aboutus h3{
+   background-color:rgba(0,0,0,0);
+   font-family: 'Josefin Sans', sans-serif;
+   font-size: 200%;
+   color:white;
+   font-style: italic;
+   text-align: center;
+}
+#homepage_extrainfo{
+   height: auto;
+}
+
+.homepage_steps h1{
+   font-family: 'Josefin Sans', sans-serif;
+   font-size: 250%;
+   color:white;
+   text-align: center;
+}
+.homepage_spec{
+   font-family: 'Josefin Sans', sans-serif;
+   font-size: 150%;
+   text-align: center;
+   height: 100px;
+   margin-top: 50px;
+}
+
+.homepage_spec-header {
+  font-size: 35px;
+  font-weight: bold;
+  font-family: initial;
+}
+
+.homepage_spec-header-text{
+  font-family: 'serif';
+  font-weight: lighter;
+  font-size: 30px;
+  color:black;
+  text-align: center;
+}
+#homepage_footer{
+ background-color: #363535      ;
+ height:80px;
+}
+#homepage_footer1{
+ background-color:#2E2D2D  ;
+ height:150px;
+}
+
+#homepage_button {
+
+text-align: center;
+}
+
+#homepage_icon{
+ width: 46px;
+ height: 46px;
+margin-right: 5px;
+}
+#homepage_footer-text{
+text-align: center;
+color: #EDEBEB  ;
+font-size: 15px;
+}
+.homepage_moto{
+color:white ;
+font-family: 'serif';
+font-size: 35px;
+}
+
+.homepage_steps{
+    font-size: 25px;
+    color:white ;
+    font-family: 'initial';
+}
+
+.homepage_detail-head-tag {
+  font-size: 20px;
+  padding-bottom: 10px;
+  font-family: fantasy;
+  font-weight: bold;
+}
+
+.homepage_detail-sub-head-tag {
+  font-size: 18px;
+  margin-bottom: 4px;
+  font-weight: lighter;
+}
+
+#homepage_div1-card-container{
+
+}
+
+.aboutus-card-container {
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23) !important;
+  height: 380px !important;
+  padding-bottom: 10px !important;
+}
+
+.image-btn-text {
+  font-size: 18px !important;
+  font-weight: bold !important;
+  font-family: initial !important;
+  letter-spacing: 1px !important;
+}
+
+.divider-line {
+  max-height: 10px;
+}

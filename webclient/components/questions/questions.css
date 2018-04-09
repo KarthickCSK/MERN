@@ -1,0 +1,19 @@
+.question_input-field{
+  width:100%;
+}
+.question_div{
+margin-left: 30px;
+}
+.question_main-div{
+  margin-left: 20px;
+}
+#question_btn-submit{
+width:90px;
+font-size: 15px;
+}
+.question_p-message{
+  color:#ABAAA8;
+}
+.question_date{
+  margin-left: 30px;
+}

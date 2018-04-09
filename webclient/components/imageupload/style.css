@@ -1,0 +1,27 @@
+.form{
+    padding-top:  13px;
+    width: 390px;
+    margin-left:  15%
+}
+.menuBar {
+    margin-left:  15%
+}
+#pre{
+  color:red
+}
+.discount{
+  margin-left: 19%
+}
+.formInput{
+  margin-left: 4%
+}
+.dropzone{
+  margin-left: 30%;
+  margin-top: 10%;
+  height: 289px;
+  width:230px;
+  border-style: solid;
+}
+#inputDiscount{
+  width: 82%;
+}

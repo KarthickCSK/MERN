@@ -1,0 +1,193 @@
+#snackbar {
+    visibility: hidden;
+    min-width: 250px;
+    margin-left: -125px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    border-radius: 2px;
+    padding: 16px;
+    position: fixed;
+    z-index: 1;
+    left: 50%;
+    top: 230px;
+    font-size: 17px;
+}
+
+#snackbar.show {
+    visibility: visible;
+    position: fixed;
+    -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+    animation: fadein 0.5s, fadeout 0.5s 2.5s;
+}
+
+@-webkit-keyframes fadein {
+    from {top: 0; opacity: 0;}
+    to {top: 230px; opacity: 1;}
+}
+
+@keyframes fadein {
+    from {top: 0; opacity: 0;}
+    to {top: 230px; opacity: 1;}
+}
+
+@-webkit-keyframes fadeout {
+    from {top: 230px; opacity: 1;}
+    to {top: 0; opacity: 0;}
+}
+
+@keyframes fadeout {
+    from {top: 230px; opacity: 1;}
+    to {top: 0; opacity: 0;}
+}
+
+#vendoraction-error
+{
+  color:red
+}
+
+
+#vendoraction-pre{
+  color:red;
+  font-size: 12px;
+  margin-left: 9%
+}
+#vendoraction-inputDiscount{
+margin-left: -102%;
+width: 188%;
+}
+#vendoraction-MRP{
+  width:60%;
+}
+#vendoraction-resetButton{
+  margin-left: 10px;
+}
+.vendoraction-RichTextEditor{
+  width:100%;
+  height:120%;
+}
+#vendoraction-shoplink
+{
+  color: orange;
+  margin-left: 1%;
+  text-decoration: underline;
+}
+#vendoraction-otherbutton{
+  height:1%;
+  margin-top: 23px;
+}
+.vendoraction-VendorBar{
+  width:107%;
+  margin: 0%;
+}
+
+#vendoraction-texteditor{
+  margin-left: 11%;
+    width: 67%;
+    height: 208px;
+}
+#vendoraction-emptybar{
+  width: 19%;
+}
+#vendoraction-emptybar2{
+  left: 150px;
+  width:90%;
+  height:750px;
+  padding-top: 0%;
+  padding-bottom: 0%;
+  padding-left: 70px;
+}
+#vendoraction-emptybar3{
+  margin-top: 0.1%;
+  width:528px;
+}
+#vendoraction-fields{
+  padding-bottom: 0%;
+  padding-top: 3%;
+
+}
+#vendoraction-select{
+  width:344px;
+}
+#vendoraction-description{
+  margin-left: 0%;
+  height: 223px;
+  margin-top: 1%;
+}
+#vendoraction-input{
+      width: 136px;
+}
+#vendoraction-buttongroup{
+  margin-left: 0%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    height:75%;
+}
+#vendoraction-grid{
+  height: 500px;
+}
+#vendoraction-modal{
+  width: 600px;
+  margin-left: -300px;
+}
+#vendoraction-span{
+  margin-left: 420px;
+  color: red;
+}
+#vendoraction-modalaction{
+  height: 100px;
+  padding-top: 40px;
+  padding-bottom: 10px;
+}
+#vendoraction-popup{
+  position: absolute;
+  left: 614px;
+  right: auto;
+  bottom: -64px;
+  top: auto;
+  margin-bottom: 70px;
+  color: red;
+}
+#vendoraction-imageupload{
+  margin-left: 0px;
+  float:inherit;
+  width: 178px;
+  left:30px;
+  margin-top:3%;
+}
+#vendoraction_category{
+    margin-top: 40%;
+    width: 39%;
+}
+#vendoractions-headerProduct{
+  margin-left: 0%
+}
+#vendoraction_subcategory{
+  margin-top:14%;
+width: 39%;
+}
+#vendoraction_product{
+margin-top: 37%;
+width:39% ;
+}
+#VendorActions-Headerlabel{
+  background-color: #DB2828;
+  color:white;
+}
+#vendoraction-final{
+  margin-top: 5%
+}
+#vendoraction-inputbar{
+  margin-top: 2%
+}
+#vendoractions-mainfield{
+  width: 70%;
+  display: inlineFlex;
+  paddingTop:0%;
+  paddingBottom:0%;
+}
+#vendoraction_inputcss{
+  margin-top: 1%;
+    margin-left: 12%;
+    width: 29%;
+}

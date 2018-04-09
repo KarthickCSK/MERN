@@ -1,0 +1,50 @@
+.LoginDescription{
+ font-family: 'inherit';
+ font-size: 200%;
+ font-weight: bolder;
+}
+
+.LoginModal{
+ max-width: 400px ;
+ background: transparent;
+ margin-left: -200px !important;
+}
+
+.LoginView{
+  margin-left: 60px !important;
+align-items: center !important;
+}
+
+.login_header {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 25px;
+  color:'orange';
+  text-align: center;
+}
+
+.login_vendor
+{
+margin-left: 50px;
+color: blue;
+}
+
+.login-btn-container {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.login-btn {
+  border-radius: 20px !important;
+  background-color: #DB2828 !important;
+}
+
+.login-btn-text {
+  font-size: 16px;
+  font-family: inherit;
+  color: white;
+}
+
+.forgot-pass-text {
+  font-size: 16px;
+  color: #304D8A;
+}

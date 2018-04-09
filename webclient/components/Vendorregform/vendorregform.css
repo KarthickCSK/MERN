@@ -1,0 +1,239 @@
+#snackbar {
+    visibility: hidden;
+    min-width: 250px;
+    margin-left: -125px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    border-radius: 2px;
+    padding: 16px;
+    position: fixed;
+    z-index: 1;
+    left: 50%;
+    top: 230px;
+    font-size: 17px;
+}
+
+#snackbar.show {
+    visibility: visible;
+    position: fixed;
+    -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+    animation: fadein 0.5s, fadeout 0.5s 2.5s;
+}
+
+@-webkit-keyframes fadein {
+    from {top: 0; opacity: 0;}
+    to {top: 230px; opacity: 1;}
+}
+
+@keyframes fadein {
+    from {top: 0; opacity: 0;}
+    to {top: 230px; opacity: 1;}
+}
+
+@-webkit-keyframes fadeout {
+    from {top: 230px; opacity: 1;}
+    to {top: 0; opacity: 0;}
+}
+
+@keyframes fadeout {
+    from {top: 230px; opacity: 1;}
+    to {top: 0; opacity: 0;}
+}
+.vendorreg-card{
+
+     width: 650px;
+
+     height: 60%;
+
+     margin-left: 15%;
+
+     margin-top:10px;
+
+     margin-bottom: 10px;
+
+ }
+ #vendorreg-errormsg
+ {
+   color: red;
+   font-size: 12px !important;
+ }
+ #vendorreg-shopDisable
+ {
+   background-color: #cfcfd1;
+   width: 370px;
+ }
+   .vendorreg-address {
+
+       width: 100%;
+       margin-bottom: 30px;
+
+   }
+
+   .vendorreg-map {
+
+       float: right;
+
+   }
+
+   .vendorreg-disable {
+
+       background-color: #c2c3c4;
+
+       width: 150px;
+
+   }
+
+   .vendorreg-disableemail {
+
+       background-color: #c2c3c4;
+
+       width: 200px;
+
+   }
+
+   #vendorreg-locationgroup {
+
+       /*margin-top: 70px;
+
+       padding-right: 14px;
+
+       border-right-width: 50px;
+
+       margin-left: 100px;
+
+       margin-top: 110px;*/
+
+   width: 300px;
+
+   margin-top: 20px;
+
+   padding-left: 0px;
+
+   margin-right: 50px;
+
+   padding-right: 0px;
+
+   left: 300px;
+
+   padding-bottom: 0%;
+
+
+
+   }
+
+   #vendorreg-uploadimagebutton
+{
+  margin-left: 20px;
+}
+
+   .vendorreg-profile {
+
+       font-size: 25px;
+
+       color: black;
+
+       font-weight: bold;
+
+   }
+
+   #vendorreg-field {
+
+       margin-bottom: 5px;
+       height:200px;
+       width: 380px;
+       margin-right: 0px;
+
+   }
+
+   #vendorreg-text {
+
+       width: 390px;
+
+       font-weight: bold;
+
+   }
+
+   .vendorreg-shopfield {
+
+       width: 390px;
+
+   }
+
+   .vendorreg-label
+
+   {
+
+     font-weight: bold;
+
+     font-size: 15px;
+     width: 180px;
+
+   }
+
+   .vendorreg-addressmap
+
+   {
+
+     width: 50%;
+
+     padding-bottom: 0%;
+
+   }
+
+   #vendorreg-submitbutton
+
+   {
+
+     margin-left: 145px;
+
+   }
+
+   .vendorreg-form
+
+   {
+
+     margin-left: 20px;
+
+     border-right-width: 1px;
+
+     padding-right: 8.750;
+
+     width: 918.5px;
+
+   }
+   .vendorreg-formprofile{
+     width: 432px;
+   }
+
+   #vendorreg-grid{
+
+     width:570px;
+
+   }
+
+   #vendorreg-gridrow{
+
+     padding-bottom: 0%;
+     padding-top: 3%;
+
+   }
+#dropzone-button{
+  margin-left: 20px;
+}
+.dropzone-reg{
+  width: 200px;
+    height: 200px;
+    border-width: 2px;
+    border-color: rgb(102, 102, 102);
+    border-style: solid;
+    border-radius: 5px;
+    margin:auto;
+}
+
+#dropzone-img{
+  width:190px;
+  height:190px;
+  margin-left:-10px;
+  margin-top: 3px;
+}

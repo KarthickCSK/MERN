@@ -1,0 +1,16 @@
+.product-upload-image-container img{
+  width: 240px !important;
+  height: 240px !important;
+    margin:auto !important;
+
+}
+.product-upload-image-container{
+  width: 240px !important;
+  height: 240px !important;
+    margin:auto !important;
+
+
+}
+.product-upload-image{
+  object-fit:scale-down;
+}

@@ -1,0 +1,33 @@
+.subcategory-upload-image-container img{
+  width: 240px !important;
+  height: 240px !important;
+    margin:auto !important;
+
+}
+.subcategory-upload-image-container{
+  width: 240px !important;
+  height: 240px !important;
+    margin:auto !important;
+
+
+}
+.subcategory-upload-image{
+  object-fit:scale-down;
+}
+.dropzone-subcategory
+{
+  width: 200px;
+    height: 200px;
+    border-width: 2px;
+    border-color: rgb(102, 102, 102);
+    border-style: solid;
+    border-radius: 5px;
+    margin-left: 25%
+}
+#dropzonesubcategory-img
+{
+  width:196px;
+  height:198px;
+  margin-left:0px;
+  margin-top: -40px;
+}

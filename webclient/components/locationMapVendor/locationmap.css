@@ -1,0 +1,73 @@
+.locationmap-complete-container{
+  padding-top: 2% !important;
+}
+
+.locationmap-mapColumn{
+  /*position: fixed;*/
+  height:575px;
+}
+.locationmap-mapContainer {
+  position:fixed;
+  height: 575px  !important;
+  width: 70%;
+}
+
+
+.locationmap-map-container{
+ width:50%;
+}
+
+.locationmap-vendor-container {
+  background-color: #fafafa;
+}
+
+.locationmap-product-img {
+  cursor: pointer;
+}
+
+.locationmap-brand-content-dropdown {
+
+   padding-top: 0% !important;
+
+}
+.locationmap-dropdown-container {
+  padding-left: 1%;
+  padding-right: 1%;
+
+}
+#locationmap-dropdownCategory {
+  margin-top: 5px;
+  width: 100px;
+}
+#locationmap-segment{
+  height: 575px;
+   padding-left: 2%;
+    padding-right: 4%;
+    overflow-y: scroll;
+    /* overflow: scroll; */
+}
+#locationmap-popup{
+  width: 100%;
+}
+#locationmap-grid{
+  height: 65px;
+  padding-top: 9px;
+}
+#locationmap-card img{
+  height:170px;
+}
+
+/*-------Markers CSS-------*/
+
+.markers {
+  color: red;
+  opacity: 0.9;
+}
+
+.markers:hover {
+  color: orange;
+}
+
+.markers:active {
+  color: orange;
+}

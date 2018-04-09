@@ -1,0 +1,13 @@
+.comment_textarea{
+  width: 300px;
+  height: 100px;
+}
+#comments_btn-submit{
+width:90px;
+font-size: 15px;
+}
+.comment_label{
+  font-family:sans-serif;
+  font-style: italic;
+  font-size: 18px !important;
+}

@@ -1,0 +1,30 @@
+.fiter-product-container {
+  margin-top: 30px;
+}
+
+.filter-product-tool {
+  margin-left: 40px;
+  margin-top: 50px;
+  border: 1px solid #EFEFEF;
+  width: 250px;
+  height: 400px;
+  position: fixed !important;
+}
+
+.filter-product-type {
+  padding: 7%;
+}
+
+.filter-product-apply-btn {
+  text-align: center;
+}
+
+.filter-prod-product-container {
+  margin-top: 50px;
+}
+.search-box-filter{
+  width:60% !important;
+}
+.search-box-filter{
+      margin-left: 111px;
+}

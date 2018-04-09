@@ -1,0 +1,12 @@
+.main {
+  margin-left:20;
+}
+
+.cardContainer {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  width:39%;
+  top: 0;
+  right: 0;
+}

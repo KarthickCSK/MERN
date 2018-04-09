@@ -1,0 +1,23 @@
+.product-grid {
+  z-index: 2;
+}
+
+#search{
+height: 150%;
+ width: 60%;
+}
+#search1{
+height: 150%;
+ width: 60%;
+}
+#searchButton{
+ margin-top: 15px;
+}
+#img
+{
+	height: 60%;
+}
+#1
+{
+	margin-left: 50px;
+}

@@ -1,0 +1,21 @@
+#card{
+  display: inline;
+  width: 500px;
+  height: 500px;
+}
+.preview-upload-image-container img{
+  width: 240px !important;
+  height: 240px !important;
+    margin:auto !important;
+
+}
+.preview-upload-image-container{
+  width: 240px !important;
+  height: 240px !important;
+    margin:auto !important;
+
+
+}
+.preview-upload-image{
+  object-fit:scale-down;
+}

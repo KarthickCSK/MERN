@@ -1,0 +1,20 @@
+.subcategory-content-card{
+  margin: 10px !important;
+}
+
+.image-container-subcategory img{
+  width: 240px !important;
+  height: 270px !important;
+    margin:auto !important;
+
+}
+.image-container-subcategory{
+  width: 240px !important;
+  height: 270px !important;
+    margin:auto !important;
+
+
+}
+.image-subcategory{
+  object-fit:scale-down;
+}

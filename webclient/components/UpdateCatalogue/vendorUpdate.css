@@ -1,0 +1,24 @@
+#VendorProductList-modal{
+  margin-right: 4%;
+}
+#VendorProductList-rte{
+  height:150px
+}
+#VendorProductList-formbar{
+      margin-left: 0%;
+}
+#VendorProductList-error
+{
+  color:red;
+}
+#VendorProductList-Headerlabel{
+  background-color: #DB2828;
+  color:white
+}
+#VendorProductList-noproductmsg{
+color:red
+}
+#vendor-product-header
+{
+  margin-left: 42%;
+}
